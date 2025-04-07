@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>周宇 的简历</title>
+    <title>简历</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,7 +47,7 @@
         <div class="header">
             <h1>huangweiqiang</h1>
             <p>学号: 2209010042</p>
-            <p>邮箱: zhouyu@example.com | 电话: (123) 456-7890 | LinkedIn: linkedin.com/in/zhouyu</p>
+            <p>邮箱: huangweiqiang@example.com | 电话: (123) 456-7890 | LinkedIn: linkedin.com/in/huangweiqiang</p>
         </div>
         <div class="section">
             <h2>求职意向</h2>
